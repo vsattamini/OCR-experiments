@@ -5,5 +5,4 @@ The system from where the original text comes from is isolated from other comput
 
 There are 3 ways I will attempt to implement here:
 - Pytesseract: a ready-to-use package that I will import
-- Transfer learning: I will see is HuggingFace has any models
 - My own model: based on what I learn from the previous experiments, I will attempt to develop my own model. 
