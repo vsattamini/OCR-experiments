@@ -1,0 +1,8 @@
+popper
+tesseract
+pandoc
+pytesseract
+pdf2image
+pdftocairo
+pypandoc
+datasets
