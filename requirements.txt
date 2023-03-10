@@ -6,3 +6,5 @@ pdf2image
 pdftocairo
 pypandoc
 datasets
+poppler-utils
+PyPDF2
